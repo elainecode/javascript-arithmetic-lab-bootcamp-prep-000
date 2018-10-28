@@ -20,7 +20,7 @@ function inc(n){
 }
 
 function dec(n){
-  return --a;
+  return --n;
 }
 
 function makeInt(n){
@@ -30,3 +30,4 @@ function makeInt(n){
 function preserveDecimal(n){
   parseFloat(n);
 }
+
